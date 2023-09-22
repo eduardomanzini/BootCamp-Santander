@@ -17,7 +17,7 @@ function addToHello(name) {
 function CallToPhone(phone) {
     return phone;
 }
-function getDatabase(id) {
+async function getDatabase(id) {
     return __awaiter(this, void 0, void 0, function* () {
         return "felipe";
     });
